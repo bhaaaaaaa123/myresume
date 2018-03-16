@@ -1,0 +1,23 @@
+{
+	"basics":{
+		"resume objective":"  My career objective is to make myself a good technical enginnering and to achieve good heights in the field of IIT.To be selected in a reputed IT form firm where iI can get a nice package .To strength my knowledge and and help the company to grow."
+	},
+	"education":[
+		{
+			"degree":"B.Tech(computer science engineering)",
+			"college":"KLMCEW",
+			"data":["2015-19","70%"]
+		},
+		{
+			"degree":"INTER(MPC)",
+			"college":"NARAYANA",
+			"data":["2013-15","80%"]
+
+		},
+	{
+			"degree":"SSC",
+			"college":"SVHS",
+			"data":["2012-13","93%"]
+}
+]
+}
